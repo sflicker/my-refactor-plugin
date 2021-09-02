@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sflicker.myrefactorplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sflicker.myrefactorplugin.MyBundle
 
 class MyApplicationService {
 
